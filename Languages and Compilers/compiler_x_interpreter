@@ -1,0 +1,20 @@
+Compiler x Interpreter
+
+Interpreter:
+-   Advantages:
+        - Real Time Execution
+        - File Static
+-   Against
+        - Error only in time execution
+        - Size larger
+
+Compiler:
+-  Advantages:
+        - Time compilations
+        - Error before runtime execution
+        - Size less
+-   Against:
+        - Need one compiler
+
+
+

@@ -2,13 +2,16 @@
 
 A repository to document and track my progress in studying C#.
 
-## C# Fundamentals
+## ✅ C# Fundamentals
 - **Languages and Compilers**
     - *Programming languages*
     - *High and low level*
     - *Compiled and interpreted languages*
     - *Compiled and interpreted*
-    - *Tipagem de dados*
+    - *Data Type*
+
+- **C#**
+    - **
 
 ## Requirements '*Mandatory*'
 - **C# Dev Kit (For Vscode)**
@@ -21,6 +24,7 @@ This project serves as a collection of practice code. The topics are organized i
 ## Progress Tracker
 | Topic                      | Status          |
 |----------------------------|-----------------|
-| Languages and Compilers | 🔄  In Progress    |
+| Languages and Compilers | ✅  Completed    |
+| C# | 🔄  In Progress    |
 
 # last update: 12/11/2024
