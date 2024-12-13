@@ -10,7 +10,14 @@ A repository to document and track my progress in studying C#.
     - *Compiled and interpreted*
     - *Data Type*
 
-- **C#**
+- ✅ **C#**
+    - *Compilation and management*
+    - *Managed code*
+    - *Why C#*
+
+- 🔄 **Frameworks**
+    - **
+    - **
     - **
 
 ## Requirements '*Mandatory*'
@@ -25,6 +32,8 @@ This project serves as a collection of practice code. The topics are organized i
 | Topic                      | Status          |
 |----------------------------|-----------------|
 | Languages and Compilers | ✅  Completed    |
-| C# | 🔄  In Progress    |
+| C# | ✅  Completed    |
+| Frameworks # | 🔄  In Progress    |
+
 
 # last update: 12/11/2024
