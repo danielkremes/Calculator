@@ -1,0 +1,24 @@
+Types projects inside .dotnet
+- Class library:
+    - end up DLL
+    - Don't show interface
+- Console application
+    - DOS
+    - end up executable who run in console
+- Web Projects
+    - ASP.NET Web
+    - ASP.NET MVC
+    - ASP.NET WebApi
+- Tests
+    - Microsoft Tests
+
+Example:
+dotnet new console
+dotnet new classlib
+dotnet new web
+dotnet new mvc
+dotnet mstest
+
+
+
+

@@ -1,0 +1,4 @@
+1. dotnet restore
+2. dotnet clean
+3. dotnet build
+4. dotnet run

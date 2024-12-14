@@ -1,0 +1,9 @@
+Environment Variable
+- We us some types environment
+    - Developing
+    - Homologate
+    - Production
+- We us some types of access
+    - database connections
+    - external access keys
+    

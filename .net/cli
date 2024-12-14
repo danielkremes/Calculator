@@ -1,0 +1,6 @@
+CLI
+
+- dotnet --version
+- dotnet --list-sdks
+- dotnet --list-runtimes
+- dotnet --help

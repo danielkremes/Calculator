@@ -15,10 +15,13 @@ A repository to document and track my progress in studying C#.
     - *Managed code*
     - *Why C#*
 
-- 🔄 **frameworks**
-    - **
-    - **
-    - **
+- ✅ **frameworks**
+    - *.Net Framework*
+    - *.Net Core*
+    - *.Net Standard*
+    - *.Net 5 future*
+    - *Code versioning*
+    - *Runtime and SDK*
 
 ## Requirements '*Mandatory*'
 - **C# Dev Kit (For Vscode)**
@@ -33,7 +36,8 @@ This project serves as a collection of practice code. The topics are organized i
 |----------------------------|-----------------|
 | languages_and_compilers | ✅  Completed    |
 | c# | ✅  Completed    |
-| frameworks  | 🔄  In Progress    |
+| frameworks  | ✅  Completed    |
+| .net  | 🔄  In Progress    |
 
 
-# last update: 12/13/2024
+# last update: 12/14/2024
