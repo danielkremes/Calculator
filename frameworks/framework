@@ -1,0 +1,50 @@
+Frameworks
+- Base for creation applications.
+- Set libraries
+- Tested
+- Reduce time for developing
+
+.Net Framework
+- C#
+- Created in 2001
+    - Call .Net Framework
+    - some version 1.0, 2.0, 3.0, etc..
+- Side by Side
+- Only for Windows
+- Legacy
+
+.Net Core
+- Framework more modern
+- Created in 2015
+- OS various
+- Recreated from scratch
+- Side by Side
+
+.Net Standard
+- Ensure .Net Framework and .Net Core working together
+
+.Net 5 future
+- Join Frameworks
+
+LTS (long Term Support)
+- Version with end .1
+- Put in production
+
+Code versioning
+- divided into phases
+- Alpha, Beta, Release Candidate, End
+- divided into three parts
+- Major, Minus, Patch
+
+Runtime and SDK
+- Need for run our applications
+- Put for client
+SDK
+- Kit development
+- not use production
+
+
+
+
+
+
