@@ -1,14 +1,76 @@
-﻿Console.Clear();
+﻿Sum();
+Subtraction();
+Multiplication();
 
-Console.WriteLine("First value");
-double valueOne = Double.Parse(Console.ReadLine());
+static void Sum()
+{
+    Console.Clear();
 
-Console.WriteLine("Second Value ");
-double valueTwo = double.Parse(Console.ReadLine());
+    Console.WriteLine("First value");
+    double valueOne = Double.Parse(Console.ReadLine());
 
-//Operations
-double sum = valueOne + valueTwo;
+    Console.WriteLine("Second Value ");
+    double valueTwo = double.Parse(Console.ReadLine());
 
-Console.WriteLine($"Value type it it was: {valueOne}");
-Console.WriteLine($"Value type it it was {valueTwo}");
-Console.WriteLine($"Value of sum is: {sum}");
+    //Operation
+    double sum = valueOne + valueTwo;
+
+    Console.WriteLine($"Value type it it was: {valueOne}");
+    Console.WriteLine($"Value type it it was {valueTwo}");
+    Console.WriteLine($"Value of sum is: {sum}");
+
+    //Break application
+    Console.ReadKey();
+}
+
+static void Subtraction (){
+    Console.Clear();
+
+    Console.WriteLine("First value");
+    double valueOne = Double.Parse(Console.ReadLine());
+
+    Console.WriteLine("Second Value ");
+    double valueTwo = double.Parse(Console.ReadLine());
+
+    //Operation
+    double subtraction = valueOne - valueTwo;
+
+    Console.WriteLine($"Value of subtraction is: {subtraction}");
+    Console.ReadKey();
+}
+
+static void Multiplication(){
+
+    Console.Clear();
+
+    Console.WriteLine("First value");
+    double valueOne = Double.Parse(Console.ReadLine());
+
+    Console.WriteLine("Second Value ");
+    double valueTwo = double.Parse(Console.ReadLine());
+
+    //Operation
+    double multiplication = valueOne * valueTwo;
+
+    Console.WriteLine($"Value of multiplication is: {multiplication}");
+
+    Console.ReadKey();
+}
+
+static void Division(){
+    Console.Clear();
+
+    Console.WriteLine("First value");
+    double valueOne = Double.Parse(Console.ReadLine());
+
+    Console.WriteLine("Second Value ");
+    double valueTwo = double.Parse(Console.ReadLine());
+
+    //Operation
+    double division = valueOne / valueTwo;
+
+    Console.WriteLine($"Value of division is: {division}");
+
+    Console.ReadKey();
+}
+
