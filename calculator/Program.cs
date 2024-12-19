@@ -19,7 +19,7 @@ static void Sum()
     Console.WriteLine($"Value type it it was {valueTwo}");
     Console.WriteLine($"Value of sum is: {sum}");
 
-    //Break application
+    //Break program
     Console.ReadKey();
 }
 
@@ -36,6 +36,8 @@ static void Subtraction (){
     double subtraction = valueOne - valueTwo;
 
     Console.WriteLine($"Value of subtraction is: {subtraction}");
+    
+    //Break program
     Console.ReadKey();
 }
 
@@ -54,6 +56,7 @@ static void Multiplication(){
 
     Console.WriteLine($"Value of multiplication is: {multiplication}");
 
+    //Break program
     Console.ReadKey();
 }
 
@@ -71,6 +74,7 @@ static void Division(){
 
     Console.WriteLine($"Value of division is: {division}");
 
+    //Break program
     Console.ReadKey();
 }
 
